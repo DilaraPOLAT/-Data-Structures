@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612097075 source:c:\users\dİlara sevİm polat\desktop\verİ_sınavlar\final2020cift\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
